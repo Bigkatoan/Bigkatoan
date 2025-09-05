@@ -12,7 +12,7 @@ FPT University graduate, currently based in Hanoi. I'm passionate about explorin
 #### 💡 Technologies & Tools
 * **Languages:** Python, C++
 * **AI/ML Libraries:** PyTorch, TensorFlow, Scikit-learn, OpenAI Gym
-* **Robotics:** ROS2
+* **Robotics:** ROS2, Jetson Nano, Jetson TX2, Jetson Orin Nano.
 * **Other:** Git, Docker, Linux
 
 #### 🔬 Featured Research
