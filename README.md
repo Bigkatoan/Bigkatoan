@@ -19,7 +19,7 @@ FPT University graduate based in Hanoi. I build learning-based autonomous system
 [m3bot-isaaclab](https://github.com/Bigkatoan/m3bot-isaaclab) · [bcam-ros2](https://github.com/Bigkatoan/bcam-ros2) · [puppet-gym](https://github.com/Bigkatoan/puppet-gym) · [jetson-rl-car](https://github.com/Bigkatoan/jetson-rl-car) · [fuzebot-description](https://github.com/Bigkatoan/fuzebot-description) · [robotics-setup-notes](https://github.com/Bigkatoan/robotics-setup-notes)
 
 #### 🧠 Models & Research
-[nano-clip](https://github.com/Bigkatoan/nano-clip) · [open-vcv](https://github.com/Bigkatoan/open-vcv) · [pretrain-unet](https://github.com/Bigkatoan/pretrain-unet)
+[nano-clip](https://github.com/Bigkatoan/nano-clip)
 
 #### 🔬 Publications
 1. **Enhancing Data Efficiency in Reinforcement Learning Using Autoencoders: A DDPG Framework** — [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=vi&user=x0I5hdIAAAAJ&citation_for_view=x0I5hdIAAAAJ:u5HHmVD_uO8C)
